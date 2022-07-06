@@ -11,3 +11,4 @@
 * **Dependant Variable:** Output number
 
 **Linear Functions:** 
+* y = f(x) = b + mx
